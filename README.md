@@ -2,7 +2,7 @@
 Hi 👋 I'm Rishitha
 </h1> 
 <h3 align="center">
-CSE (AI & ML) Student | Flutter Developer | Building Real-World Solutions 
+CSE (AI & ML) Student | Developer | Building Real-World Solutions 
 </h3>
 
 <p align="center">
