@@ -7,7 +7,7 @@ CSE (AI & ML) Student | Flutter Developer | Building Real-World Solutions
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&lines=Exploring+Technology+%7C+Building+Solutions;Creating+Projects+That+Solve+Real+Problems;Technology+%7C+Innovation+%7C+Creative+Problem+Solving;Turning+Ideas+Into+Meaningful+Digital+Experiences;Learning%2C+Building%2C+And+Growing+Every+Day+"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&lines=Exploring+Technology+%7C+Building+Solutions;Creating+Projects+That+Solve+Real+Problems;Technology+%7C+Innovation+%7C+Problem+Solving;Turning+Ideas+Into+Meaningful+Digital+Experiences;Learning%2C+Building%2C+And+Growing+Every+Day+"/>
 </p>
 
 
