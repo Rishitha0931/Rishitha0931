@@ -1,7 +1,6 @@
 <h1 align="center">
 Hi 👋 I'm Rishitha
 </h1>it 
-
 <h3 align="center">
 CSE (AI & ML) Student | Flutter Developer | Building Real-World Solutions 
 </h3>
