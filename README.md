@@ -7,9 +7,7 @@ CSE (AI & ML) Student | Flutter Developer | Building Real-World Solutions 🚀
 </h3>
 
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=CSE+(AI+%26+ML)+Student;Flutter+Developer;Building+Real-World+Apps;UI%2FUX+Enthusiast;Always+Learning+%26+Building+🚀"/>
-</p>
+![snake animation](https://raw.githubusercontent.com/Rishitha0931/Rishitha0931/output/github-contribution-grid-snake.svg)
 
 
 ## 👩‍💻 About Me
