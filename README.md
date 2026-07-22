@@ -6,9 +6,8 @@ Hi 👋 I'm Rishitha
 CSE (AI & ML) Student | Flutter Developer | Building Real-World Solutions 🚀
 </h3>
 
-
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishitha0931"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&lines=Transforming+Ideas+Into+Digital+Solutions;Building+Apps+That+Create+Real-World+Impact;Flutter+%7C+Firebase+%7C+UI%2FUX+%7C+AI;From+Concept+to+Complete+Products+🚀;Learning+Today%2C+Building+Tomorrow"/>
 </p>
 
 
