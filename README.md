@@ -42,14 +42,11 @@ Users can post their requirements while vendors can respond and provide services
 🌿 **EcoApp**  
 A gamified environmental learning platform built with Flutter that encourages students to learn and participate in eco-friendly activities.
 
-🚀 **VRLocal**  
-A local services platform concept designed to help users find nearby service providers quickly and conveniently.
-
 
 ## 🛠️ Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,python,c,html,css,git,github,vscode,figma"/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,python,c,git,github,vscode,figma"/>
 </p>
 
 
@@ -95,11 +92,6 @@ https://github.com/Rishitha0931/localservices-app
 ✨ Built multiple Flutter-based applications  
 ✨ Explored UI/UX Design and Product Development  
 ✨ Participated in hackathons and innovation programs  
-
-
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=Rishitha0931&show_icons=true&theme=tokyonight"/>
 
 
 ## 🤝 Connect With Me
