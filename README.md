@@ -10,7 +10,7 @@ CSE (AI & ML) Student | Flutter Developer | Building Real-World Solutions
 </p>
 
 
-## 👩‍💻 About Me
+##  About Me
 
 Hi, I'm Rishitha — a Computer Science Engineering (AI & ML) student passionate about technology, problem-solving, and building meaningful digital solutions.
 
@@ -18,14 +18,14 @@ I enjoy transforming ideas into practical applications by combining development,
 
 My interests include:
 
-📱 Mobile App Development with Flutter  
-🔥 Firebase & Backend Integration  
-🎨 UI/UX Design and creating user-friendly experiences  
-🤖 Artificial Intelligence & Machine Learning  
-💻 Data Structures and Problem Solving  
+- Mobile App Development with Flutter  
+- Firebase & Backend Integration  
+- UI/UX Design and creating user-friendly experiences  
+- Artificial Intelligence & Machine Learning  
+- Data Structures and Problem Solving  
 
 
-## 🚀 My Development Journey
+##  My Development Journey
 
 I believe in **learning by building**.
 
@@ -33,22 +33,22 @@ From designing interfaces in Figma to developing complete applications, I enjoy 
 
 Some projects I have built:
 
-🌐 **Local Services App**  
+ **Local Services App**  
 A Flutter + Firebase platform connecting customers with local service providers.  
 Users can post their requirements while vendors can respond and provide services.
 
-🌿 **EcoApp**  
+ **EcoApp**  
 A gamified environmental learning platform built with Flutter that encourages students to learn and participate in eco-friendly activities.
 
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <p>
 <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,python,c,git,github,vscode,figma"/>
 </p>
 
 
-## 💡 Skills & Interests
+##  Skills & Interests
 
 - Flutter Application Development
 - Firebase Authentication & Database
@@ -59,13 +59,13 @@ A gamified environmental learning platform built with Flutter that encourages st
 - Artificial Intelligence & Machine Learning
 
 
-## 📌 Featured Project
+##  Featured Project
 
-### 🌐 Local Services App
+###  Local Services App
 
 A Flutter + Firebase application that connects customers with trusted local service providers.
 
-✨ Features:
+ Features:
 - Customer service requests
 - Vendor registration
 - Service categories
@@ -78,46 +78,46 @@ https://localservicesapp-9cc3e.web.app/
 🔗 Source Code:
 https://github.com/Rishitha0931/localservices-app
 
-### 🌿 EcoApp — Gamified Environmental Learning Platform
+###  EcoApp — Gamified Environmental Learning Platform
 
 A Flutter-based platform designed to make environmental education interactive and engaging for students.
 
-✨ Highlights:
+ Highlights:
 - Role-based access for students, teachers, and admins
 - Interactive eco-challenges and activities
 - Gamification with points, badges, and progress tracking
 - Firebase-powered data management
 - Focused on technology-driven environmental awareness
 
-🔗 Live Demo:
+ Live Demo:
 https://eco-app-82f71.web.app/
 
 
-## 🌱 Currently Learning
+##  Currently Learning
 
-📚 Data Structures & Algorithms  
-📱 Advanced Flutter Development  
-☁️ Backend Development  
-🤖 AI & Machine Learning Concepts  
-
-
-## 🏆 Experiences & Achievements
-
-✨ Selected for AIWS (All India Women Start-a-thon) Stage 2  
-✨ Built multiple Flutter-based applications  
-✨ Explored UI/UX Design and Product Development  
-✨ Participated in hackathons and innovation programs  
+- Data Structures & Algorithms  
+- Advanced Flutter Development  
+- Backend Development  
+- AI & Machine Learning Concepts  
 
 
-## 🤝 Connect With Me
+##  Experiences & Achievements
 
-💼 LinkedIn:
+- Selected for AIWS (All India Women Start-a-thon) Stage 2  
+- Built multiple Flutter-based applications  
+- Explored UI/UX Design and Product Development  
+- Participated in hackathons and innovation programs  
+
+
+##  Connect With Me
+
+ LinkedIn:
 https://www.linkedin.com/in/nallamadhi-rishitha-268397367/
 
-📧 Email:
+ Email:
 rishithanallamadhi@gmail.com
 
 
 ---
 
-⭐ Always learning, building, and exploring new possibilities with technology.
+ Always learning, building, and exploring new possibilities with technology.
