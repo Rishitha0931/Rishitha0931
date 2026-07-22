@@ -71,9 +71,25 @@ A Flutter + Firebase application that connects customers with trusted local serv
 - Service categories
 - Firebase database integration
 - User-friendly interface
-
-🔗 View Project:
+  
+🔗 Live Demo:
+https://localservicesapp-9cc3e.web.app/
+🔗 Source Code:
 https://github.com/Rishitha0931/localservices-app
+
+### 🌿 EcoApp — Gamified Environmental Learning Platform
+
+A Flutter-based platform designed to make environmental education interactive and engaging for students.
+
+✨ Highlights:
+- Role-based access for students, teachers, and admins
+- Interactive eco-challenges and activities
+- Gamification with points, badges, and progress tracking
+- Firebase-powered data management
+- Focused on technology-driven environmental awareness
+
+🔗 Live Demo:
+https://eco-app-82f71.web.app/
 
 
 ## 🌱 Currently Learning
