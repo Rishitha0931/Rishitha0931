@@ -64,6 +64,16 @@ A gamified environmental learning platform built with Flutter that encourages st
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishitha0931&theme=tokyo-night" />
 </p>
 
+## GitHub Overview
+
+<p align="center">
+
+<img src="https://img.shields.io/github/followers/Rishitha0931?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/github/stars/Rishitha0931?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Repositories-3-blue?style=for-the-badge&logo=github"/>
+
+</p>
+
 ##  Featured Project
 
 ###  Local Services App
@@ -126,13 +136,3 @@ rishithanallamadhi@gmail.com
 ---
 
  Always learning, building, and exploring new possibilities with technology.
-
-## GitHub Overview
-
-<p align="center">
-
-<img src="https://img.shields.io/github/followers/Rishitha0931?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/github/stars/Rishitha0931?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/badge/Repositories-3-blue?style=for-the-badge&logo=github"/>
-
-</p>
