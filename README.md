@@ -58,16 +58,6 @@ A gamified environmental learning platform built with Flutter that encourages st
 - Web Development Fundamentals
 - Artificial Intelligence & Machine Learning
 
-## GitHub Overview
-
-<p align="center">
-
-<img src="https://img.shields.io/github/followers/Rishitha0931?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/github/stars/Rishitha0931?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/badge/Repositories-3-blue?style=for-the-badge&logo=github"/>
-
-</p>
-
 ##  Featured Project
 
 ###  Local Services App
