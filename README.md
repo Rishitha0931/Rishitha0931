@@ -126,3 +126,13 @@ rishithanallamadhi@gmail.com
 ---
 
  Always learning, building, and exploring new possibilities with technology.
+
+## GitHub Overview
+
+<p align="center">
+
+<img src="https://img.shields.io/github/followers/Rishitha0931?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/github/stars/Rishitha0931?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Repositories-3-blue?style=for-the-badge&logo=github"/>
+
+</p>
