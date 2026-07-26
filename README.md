@@ -74,13 +74,6 @@ A gamified environmental learning platform built with Flutter that encourages st
 
 </p>
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Rishitha0931&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishitha0931&layout=compact&theme=tokyonight" />
-</p>
-
 ##  Featured Project
 
 ###  Local Services App
