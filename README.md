@@ -58,9 +58,11 @@ A gamified environmental learning platform built with Flutter that encourages st
 - Web Development Fundamentals
 - Artificial Intelligence & Machine Learning
 
-## GitHub Stats
+## GitHub Activity
 
-![Rishitha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rishitha0931&show_icons=true)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishitha0931&theme=tokyo-night" />
+</p>
 
 ##  Featured Project
 
